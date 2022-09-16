@@ -26,7 +26,6 @@ It can be hard to have a Duo to play with, that's why we created the perfect pla
 - NodeJS
 - React native
 - Expo
-- Twitch API
 
 ---
 
@@ -36,7 +35,7 @@ It can be hard to have a Duo to play with, that's why we created the perfect pla
 
 - Run ' npm install ' in the web, mobile and server directories
 
-- On Web directory run ' npm run dev ' and access localhost:3000 to see the front end running
+- On Web directory run ' npm run dev ' and access the localhost link that will be prompted on your terminal to see the front end running
 
 - On Server directory run ' npm run dev ' to start the server
 
